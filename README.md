@@ -25,44 +25,6 @@ Passionate about building scalable full-stack web applications, solving real-wor
 <p>Frontend / Full Stack Developer with hands-on experience in building scalable web applications using React, Node.js, Express, andMongoDB.StrongfoundationinOOPs,RESTAPIs,andMVCarchitecture. Seekinganentry-levelsoftwareengineeringrole to contribute to high-quality products and grow as a developer.
 </p>
 
-## 🛠️ Skills
-### 💻 Languages
-* JavaScript
-* Java
-* C++
-* PHP
-
-### 🎨 Frontend
-* React.js
-* HTML5
-* CSS3
-
-### ⚙️ Backend
-* Node.js
-* Express.js
-
-### 🗄️ Databases
-* MongoDB
-* MySQL
-
-### 🔧 Tools & Technologies
-* Git
-* GitHub
-* Apache Kafka
-* AWS
-
-### 🧠 Core Concepts
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
-* REST APIs
-* MVC Architecture
-
-### 🤝 Soft Skills
-* Problem Solving
-* Communication
-* Teamwork
-* Time Management
-
 
 <!-- 
 ![](https://github-readme-stats.shion.dev/api/top-langs/TECHNICALSKILLSusername=asiduki&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
